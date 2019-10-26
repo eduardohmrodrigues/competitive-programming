@@ -10,7 +10,7 @@ int main(){
 			balance += k > 0 ? 1 : -1;
 		}
 		
-		printf("Case %d: %d\n", c, balance);
+		printf("Case %d: %d\n", c++, balance);
 	}
 
 	return 0;
