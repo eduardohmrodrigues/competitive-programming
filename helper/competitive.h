@@ -1,7 +1,10 @@
 #ifndef COMPETITIVE_H
 #define COMPETITIVE_H
+#include <cstdio>
 #include <ctime>
 #include <string>
+#include <vector>
+#include <utility>
 
 class ez_time
 {
@@ -119,6 +122,126 @@ public:
 	bool isBetween(ez_time a, ez_time b){
 		if(a.isAfter(b)) return this->isAfter(b) && this->isBefore(a);
 		return this->isAfter(a) && this->isBefore(b);
+	}
+};
+
+// Graphs
+class adjacency_matrix{
+private:
+	std::vector<std::vector<int>> mat;
+	int vertexCount;
+	
+	void clear_container(){
+		for(int i=0; i<vertexCount; ++i){
+			mat[i].clear();
+		}
+
+		mat.clear();
+	}
+
+public:
+	adjacency_matrix(int v){
+		vertexCount = v;
+		mat = std::vector<std::vector<int>>(v, std::vector<int>(v, 0));
+	}
+
+	~adjacency_matrix(){
+		clear_container();
+	}
+
+	void insert_edge(int src, int dest, int weight){
+		mat[src][dest] = weight;
+	}
+	
+	void clear(){
+		for(int i=0; i<vertexCount; ++i){
+			for(int j=0; j<vertexCount; ++j){
+				mat[i][j] = 0;
+			}
+		}
+	}
+
+	void print(){
+		for(int i=0; i<vertexCount; ++i){
+			printf("|");
+			for(int j=0; j<vertexCount; ++j){
+				for(int k=100000; k>1; k/=10) if(mat[i][j] < k) printf(" ");
+				printf("%d|", mat[i][j]);
+			}
+			printf("\n");
+		}
+	}
+};
+
+class adjacency_list{
+private:
+	std::vector<std::vector<std::pair<int, int>>> adlist;
+	int vertexCount;
+
+	void clear_container(){
+		for(int i=0; i<vertexCount; ++i){
+			adlist[i].clear();
+		}
+
+		adlist.clear();
+	}
+
+public:
+	adjacency_list(int v){
+		vertexCount = v;
+		adlist = std::vector<std::vector<std::pair<int, int>>>(v);
+	}
+
+	~adjacency_list(){
+		clear_container();
+	}
+
+	void insert_edge(int src, int dest, int weight){
+//		if(src >= vertexCount || dest >= vertexCount) return;
+		adlist[src].push_back(std::pair<int, int>(dest, weight));
+	}
+
+	void clear(){
+		for(int i=0; i<vertexCount; ++i){
+			adlist[i].clear();
+		}
+	}
+
+	void print(){
+		for(int i=0; i<vertexCount; ++i){
+			if(adlist[i].size()>0){
+				printf("%d: ", i);
+				for(int j=0; j<adlist[i].size(); ++j){
+					printf("(%d, %d) ", adlist[i][j].first, adlist[i][j].second);
+				}
+				printf("\n");
+			}
+		}
+	}
+};
+
+class edge_list{
+private:
+	std::vector<std::pair<int, std::pair<int, int>>> elist;
+
+public:
+	edge_list(){
+		elist = std::vector<std::pair<int, std::pair<int, int>>>();
+		elist.clear();
+	}
+
+	~edge_list(){
+		elist.clear();
+	}
+
+	void insert_edge(int src, int dest, int weight){
+		elist.push_back(std::pair<int, std::pair<int, int>>(src, std::pair<int, int>(dest, weight)));
+	}
+
+	void print(){
+		for(int i=0; i<elist.size(); ++i){
+			printf("%d: v1: %d v2: %d w: %d\n", i, elist[i].first, elist[i].second.first, elist[i].second.second);
+		}
 	}
 };
 
