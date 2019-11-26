@@ -21,5 +21,16 @@ int main(){
 	c.insert_edge(5, 7, 1);
 	c.print();
 
+	printf("\n");
+
+	union_find u(10);
+	u.unionSet(1, 3);
+	u.unionSet(2, 4);
+	u.unionSet(5, 6);
+	u.unionSet(7, 5);
+	u.unionSet(2, 5);
+	u.unionSet(2, 1);
+	u.print();
+
 	return 0;
 }

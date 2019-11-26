@@ -245,4 +245,94 @@ public:
 	}
 };
 
+class union_find{
+private:
+	std::vector<int> vi;
+	std::vector<int> rank;
+
+public:
+	union_find(int n){
+		vi.assign(n, 0);
+		rank.assign(n, 0);
+
+		for(int i=0; i<n; ++i){ vi[i]=i; };
+	}
+	
+	int findSet(int a){
+		if(vi[a] == a) return a;
+		
+		return vi[a] = findSet(vi[a]);
+	}
+
+	bool isSameSet(int a, int b){
+		return findSet(a) == findSet(b);
+	}
+
+	void unionSet(int a, int b){
+		if(isSameSet(a, b)) return;
+
+		int pa = findSet(a);
+		int pb = findSet(b);
+
+		if(rank[pa] > rank[pb]){
+			vi[pb] = pa;
+		}else{
+			vi[pa] = pb;
+			if(rank[pa] == rank[pb]) rank[pb]++;
+		}
+	}
+/*
+	void print(int a=-1, std::vector<bool> *printedParam=nullptr){
+		std::vector<bool> printed(vi.size(), false);
+		if(a >= 0){
+			if(!(*printedParam)[a]){
+				printf("->%d", a);
+				(*printedParam)[a] = true;
+
+				if(vi[a] != a) print(vi[a], printedParam);
+				else return;
+			}
+		}else{
+			for(int i=0; i<printed.size(); ++i){
+				if(!printed[i]){
+					printf("%d", i);
+					printed[i] = true;
+					if(vi[i] != i) print(vi[i], &printed);
+					printf(" | ");
+				}
+			}
+			
+			printf("\n");
+		}
+
+	}
+*/
+	void print(){
+		printf("Item   |");
+		for(int i=0; i<vi.size(); i++){
+			for(int j=10000; j!=1; j/=10) if(i < j) printf(" ");
+			printf("%d|", i);
+		}
+		
+		printf("\nParent |");
+		for(int i=0; i<vi.size(); i++){
+			for(int j=10000; j!=1; j/=10) if(vi[i] < j) printf(" ");
+			printf("%d|", vi[i]);
+		}
+		
+		printf("\nRank   |");
+		for(int i=0; i<vi.size(); i++){
+			for(int j=10000; j!=1; j/=10) if(rank[i] < j) printf(" ");
+			printf("%d|", rank[i]);
+		}
+
+		printf("\n");
+	}
+
+	~union_find(){
+		vi.clear();
+		rank.clear();
+	}
+};
+
 #endif
