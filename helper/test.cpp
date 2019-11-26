@@ -31,6 +31,10 @@ int main(){
 	u.unionSet(2, 5);
 	u.unionSet(2, 1);
 	u.print();
+	
+	u.fullPathCompression();
+	printf("\n");
+	u.print();
 
 	return 0;
 }

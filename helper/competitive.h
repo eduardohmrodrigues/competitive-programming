@@ -6,6 +6,22 @@
 #include <vector>
 #include <utility>
 
+std::vector<std::string> split(std::string str, std::string delimiter){
+	std::string s = str;
+	std::vector<std::string> out;
+	out.clear();
+
+	size_t pos = 0;
+	std::string token;
+	while ((pos = s.find(delimiter)) != std::string::npos) {
+	    token = s.substr(0, pos);
+	    out.push_back(token);
+	    s.erase(0, pos + delimiter.length());
+	}
+	out.push_back(s);
+	return out;
+}
+
 class ez_time
 {
 private:
@@ -281,32 +297,48 @@ public:
 			if(rank[pa] == rank[pb]) rank[pb]++;
 		}
 	}
-/*
-	void print(int a=-1, std::vector<bool> *printedParam=nullptr){
-		std::vector<bool> printed(vi.size(), false);
-		if(a >= 0){
-			if(!(*printedParam)[a]){
-				printf("->%d", a);
-				(*printedParam)[a] = true;
+	
+	void fullPathCompression(){
+		for(int i=0; i<vi.size(); ++i){
+			findSet(i);
+		}
+	}
+	
+	int numDisjointSets(){
+		fullPathCompression();
+		std::vector<int> counter(vi.size(), 0);
+		int amount = 0;
 
-				if(vi[a] != a) print(vi[a], printedParam);
-				else return;
-			}
-		}else{
-			for(int i=0; i<printed.size(); ++i){
-				if(!printed[i]){
-					printf("%d", i);
-					printed[i] = true;
-					if(vi[i] != i) print(vi[i], &printed);
-					printf(" | ");
-				}
-			}
-			
-			printf("\n");
+		for(int i=0; i<vi.size(); ++i){
+			if(counter[vi[i]] == 0){ ++amount; }
+			counter[vi[i]]++;
 		}
 
+		return amount;
 	}
-*/
+	
+	int sizeOfSet(int a){
+		fullPathCompression();
+		int amount = 0;
+
+		for(int i=0; i<vi.size(); ++i){
+			if(vi[i] == a) amount++;
+		}
+
+		return amount;
+	}
+
+	std::vector<int> getDisjointSetsCounter(){
+		fullPathCompression();
+		std::vector<int> counter(vi.size(), 0);
+
+		for(int i=0; i<vi.size(); ++i){
+			counter[vi[i]]++;
+		}
+
+		return counter;
+	}
+
 	void print(){
 		printf("Item   |");
 		for(int i=0; i<vi.size(); i++){
