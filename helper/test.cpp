@@ -24,15 +24,15 @@ int main(){
 	printf("\n");
 
 	union_find u(10);
-	u.unionSet(1, 3);
-	u.unionSet(2, 4);
-	u.unionSet(5, 6);
-	u.unionSet(7, 5);
-	u.unionSet(2, 5);
-	u.unionSet(2, 1);
+	u.union_set(1, 3);
+	u.union_set(2, 4);
+	u.union_set(5, 6);
+	u.union_set(7, 5);
+	u.union_set(2, 5);
+	u.union_set(2, 1);
 	u.print();
 	
-	u.fullPathCompression();
+	u.full_path_compression();
 	printf("\n");
 	u.print();
 

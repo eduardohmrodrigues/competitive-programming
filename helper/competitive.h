@@ -265,47 +265,58 @@ class union_find{
 private:
 	std::vector<int> vi;
 	std::vector<int> rank;
+	std::vector<int> size;
 
 public:
 	union_find(int n){
 		vi.assign(n, 0);
 		rank.assign(n, 0);
+		size.assign(n, 1);
 
 		for(int i=0; i<n; ++i){ vi[i]=i; };
 	}
 	
-	int findSet(int a){
+	~union_find(){
+		vi.clear();
+		rank.clear();
+	}
+	
+	int find_set(int a){
 		if(vi[a] == a) return a;
 		
-		return vi[a] = findSet(vi[a]);
+		vi[a] = find_set(vi[a]);
+        size[a] = size[vi[a]];
+        return vi[a];
 	}
 
-	bool isSameSet(int a, int b){
-		return findSet(a) == findSet(b);
+	bool is_same_set(int a, int b){
+		return find_set(a) == find_set(b);
 	}
 
-	void unionSet(int a, int b){
-		if(isSameSet(a, b)) return;
+	void union_set(int a, int b){
+		if(is_same_set(a, b)) return;
 
-		int pa = findSet(a);
-		int pb = findSet(b);
+		int pa = find_set(a);
+		int pb = find_set(b);
 
 		if(rank[pa] > rank[pb]){
 			vi[pb] = pa;
+			size[pa] += size[pb];
 		}else{
 			vi[pa] = pb;
+			size[pb] += size[pa];
 			if(rank[pa] == rank[pb]) rank[pb]++;
 		}
 	}
 	
-	void fullPathCompression(){
+	void full_path_compression(){
 		for(int i=0; i<vi.size(); ++i){
-			findSet(i);
+			find_set(i);
 		}
 	}
 	
-	int numDisjointSets(){
-		fullPathCompression();
+	int num_disjoint_sets(){
+		full_path_compression();
 		std::vector<int> counter(vi.size(), 0);
 		int amount = 0;
 
@@ -317,19 +328,12 @@ public:
 		return amount;
 	}
 	
-	int sizeOfSet(int a){
-		fullPathCompression();
-		int amount = 0;
+	int size_of_set(int a){
+        return size[find_set(a)];
+    }
 
-		for(int i=0; i<vi.size(); ++i){
-			if(vi[i] == a) amount++;
-		}
-
-		return amount;
-	}
-
-	std::vector<int> getDisjointSetsCounter(){
-		fullPathCompression();
+	std::vector<int> get_disjoint_sets_counter(){
+		full_path_compression();
 		std::vector<int> counter(vi.size(), 0);
 
 		for(int i=0; i<vi.size(); ++i){
@@ -359,11 +363,6 @@ public:
 		}
 
 		printf("\n");
-	}
-
-	~union_find(){
-		vi.clear();
-		rank.clear();
 	}
 };
 
