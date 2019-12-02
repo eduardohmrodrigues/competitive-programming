@@ -1,7 +1,5 @@
-# Competitive Programming Solved Problems
+# Competitive Programming Problems
 This is part of my study to improve my skills of competitive programming problems solving
----
-Here we have the sources that helped us solving the question specified.
 
 ## Competitive Programming 3 [Book](https://www.amazon.com/Competitive-Programming-3rd-Steven-Halim/dp/B00FG8MNN8)
 
