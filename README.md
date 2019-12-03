@@ -35,6 +35,52 @@ This is part of my study to improve my skills of competitive programming problem
 - [UVa 10919](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1860) - Prerequisites? - [[C++](UVa/10919.cpp)]
 - __[UVa 11507](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2502) - Bender B. Roriguez ... *__ - [[C++](UVa/11507.cpp)]
 
+##### Game (Card)
+- __[UVa 00462](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=403) - Bridge Hand Evaluator *__ - [[C++](UVa/00462.cpp)]
+- __[UVa 10646](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1587) - What is the Card? *__ - [[C++](UVa/10646.cpp)]
+- __[UVa 12247](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3399) - Jollo *__ - [[C++](UVa/12247.cpp)]
+
+##### Game (Chess)
+- __[UVa 00278](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=214) - Chess *__ - [[C++](UVa/00278.cpp)]
+- __[UVa 00696](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=637) - How Many Knights *__ - [[C++](UVa/00696.cpp)]
+- __[UVa 10284](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1225) - Chessboard in FEN *__ - [[C++](UVa/10284.cpp)]
+
+##### Game (Others), Easier
+- __[UVa 00489](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=94&page=show_problem&problem=430) - Hangman Judge *__ - [[C++](UVa/00489.cpp)]
+- __[UVa 10189](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130) - Minesweeper *__ - [[C++](UVa/10189.cpp)]
+- __[UVa 11459](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2454) - Snaker and Ladders *__ - [[C++](UVa/11459.cpp)]
+
+##### Game (Others), Harder
+- __[UVa 00584](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=525) - Bowling *__ - [[C++](UVa/00584.cpp)]
+- __[UVa 10443](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1384) - Rock, Scissors, Paper *__ - [[C++](UVa/10443.cpp)]
+- __[UVa 10813](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1754) - Traditional BINGO *__ - [[C++](UVa/10813.cpp)]
+
+##### Palindrome
+- __[UVa 00401](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=342) - Palindromes *__ - [[C++](UVa/00401.cpp)]
+- __[UVa 10945](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1886) - Mother Bear *__ - [[C++](UVa/10945.cpp)]
+- __[UVa 11221](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2162) - Magic Square Palindrome *__ - [[C++](UVa/11221.cpp)]
+
+##### Anagram
+- __[UVa 00156](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=92) - Ananagram *__ - [[C++](UVa/00156.cpp)]
+- __[UVa 00195](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=131) - Anagram *__ - [[C++](UVa/00195.cpp)]
+- __[UVa 00454](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=395) - Anagrams *__ - [[C++](UVa/00454.cpp)]
+
+##### Interesting Real Life Problems, Easier
+- __[UVa 00161](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=97) - Traffic Lights *__ - [[C++](UVa/00161.cpp)]
+- __[UVa 00637](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=578) - Booklet Printing *__ - [[C++](UVa/00637.cpp)]
+- __[UVa 10812](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1753) - Beat the Spread *__ - [[C++](UVa/10812.cpp)]
+
+##### Interesting Real Life Problems, Harder
+- __[UVa 00403](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=344) - Postscript *__ - [[C++](UVa/00403.cpp)]
+- __[UVa 00608](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=549) - Counterfeit Dollar *__ - [[C++](UVa/00608.cpp)]
+- __[UVa 01061](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3502) - Consanguine Calculations *__ - [[C++](UVa/01061.cpp)]
+
+##### Time
+- __[UVa 00579](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=520) - Clock Hands *__ - [[C++](UVa/00579.cpp)]
+- __[UVa 00893](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=834) - Y3K *__ - [[C++](UVa/00893.cpp)]
+- __[UVa 11947](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3098) - Cancer or Scorpio *__ - [[C++](UVa/11947.cpp)]
+
+
 ### Chapter 2 - _Data Structures and Libraries_
 
 
