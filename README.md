@@ -33,7 +33,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 10141](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1082) - Request for Proposal *__ - [[C++](UVa/10141.cpp)]
 - [UVa 10424](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1365) - Love Calculator - [[C++](UVa/10424.cpp)]
 - [UVa 10919](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1860) - Prerequisites? - [[C++](UVa/10919.cpp)]
-- __[UVa 11507](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2502) - Bender B. Roriguez ... *__ - [[C++](UVa/11507.cpp)]
+- __[UVa 11507](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2502) - Bender B. Roríguez Problem *__ - [[C++](UVa/11507.cpp)]
 
 ##### Game (Card)
 - __[UVa 00462](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=403) - Bridge Hand Evaluator *__ - [[C++](UVa/00462.cpp)]
@@ -82,6 +82,54 @@ This is part of my study to improve my skills of competitive programming problem
 
 
 ### Chapter 2 - _Data Structures and Libraries_
+
+##### 1D Array Manipulation
+- __[UVa 10038](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979) - Jolly Jumpers *__ - [[C++](UVa/10038.cpp)]
+- __[UVa 11340](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2315) - Newspaper *__ - [[C++](UVa/11340.cpp)]
+- __[UVa 12356](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3778) - Army Buddies *__ - [[C++](UVa/12356.cpp)]
+
+##### 2D Array Manipulation
+- __[UVa 10855](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1796) - Rotated squares *__ - [[C++](UVa/10855.cpp)]
+- __[UVa 10920](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1861) - Spiral Tap *__ - [[C++](UVa/10920.cpp)]
+- __[UVa 11581](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2628) - Grid Successors *__ - [[C++](UVa/11581.cpp)]
+
+##### C++ STL algorithm
+- __[UVa 00146](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=82) - ID Codes *__ - [[C++](UVa/00146.cpp)]
+- __[UVa 10107](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1048) - What is the Median? *__ - [[C++](UVa/10107.cpp)]
+- __[UVa 10258](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1199) - Contest Scoreboard *__ - [[C++](UVa/10258.cpp)]
+
+##### Bit Manipulation
+- __[UVa 10264]() - The Most Potent Corner *__ - [[C++](UVa/10264.cpp)]
+- __[UVa 11926]() - Multitasking *__ - [[C++](UVa/11926.cpp)]
+- __[UVa 11933]() - Splitting Numbers *__ - [[C++](UVa/11933.cpp)]
+
+##### C++ STL list (rare linked list problem)
+- __[UVa 11988](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3139) - Broken Keyboard *__ - [[C++](UVa/11988.cpp)]
+
+##### C++ STL stack
+- __[UVa 00514](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=455) - Rails *__ - [[C++](UVa/00514.cpp)]
+- __[UVa 00732](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=9) - Anagram by Stack *__ - [[C++](UVa/00732.cpp)] - [TLE]
+- __[UVa 01062](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3503) - Containers *__ - [[C++](UVa/01062.cpp)]
+
+##### C++ STL queue and dequeue
+- __[UVa 10172](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1113) - The Lonesome Cargo *__ - [[C++](UVa/10172.cpp)]
+- __[UVa 10901](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1842) - Ferry Loading III *__ - [[C++](UVa/10901.cpp)]
+- __[UVa 11034](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1975) - Ferry Loading IV *__ - [[C++](UVa/11034.cpp)]
+
+##### C++ STL map
+- __[UVa 10226](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1167) - Hardwood Species *__ - [[C++](UVa/10226.cpp)]
+- __[UVa 11286](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2261) - Conformity *__ - [[C++](UVa/11286.cpp)]
+- __[UVa 11572](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2619) - Unique Snowflakes *__ - [[C++](UVa/11572.cpp)]
+
+##### C++ STL set
+- __[UVa 00978](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=919) - Lemmings Battle *__ - [[C++](UVa/00978.cpp)]
+- __[UVa 11136](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2077) - Hoax or What *__ - [[C++](UVa/11136.cpp)]
+- __[UVa 11849](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949) - CD *__ - [[C++](UVa/11849.cpp)]
+
+##### C++ STL priority_queue
+- __[UVa 01203](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3644) - Argus *__ - [[C++](UVa/01203.cpp)]
+- __[UVa 10954](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1895) - Add All *__ - [[C++](UVa/10954.cpp)]
+- __[UVa 11995](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3146) - I Can Guess the Data Structure! *__ - [[C++](UVa/11995.cpp)]
 
 
 ### Chapter 3 - _Problem Solving Paradigms_
