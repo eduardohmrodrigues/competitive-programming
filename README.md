@@ -131,8 +131,29 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 10954](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1895) - Add All *__ - [[C++](UVa/10954.cpp)]
 - __[UVa 11995](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3146) - I Can Guess the Data Structure! *__ - [[C++](UVa/11995.cpp)]
 
+##### Graph Data Structure Problems
+- __[UVa 00599](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=540) - The Forrest for the Trees *__ - [[C++](UVa/00599.cpp)]
+- __[UVa 10895](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1836) - Matrix Transpose *__ - [[C++](UVa/10895.cpp)]
+- __[UVa 11991](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3142) - Easy Problem from Rujia Liu? *__ - [[C++](UVa/11991.cpp)]
+
+##### Union-Find Disjoint Sets
+- __[UVa 00793](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=734) - Network Connections *__ - [[C++](UVa/00793.cpp)]
+- __[UVa 10507](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1448) - Waking up brain *__ - [[C++](UVa/10507.cpp)]
+- __[UVa 11503](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2498) - Virtual Friends *__ - [[C++](UVa/11503.cpp)]
+
 
 ### Chapter 3 - _Problem Solving Paradigms_
+
+##### Iterative Complete Search
+- [UVa 00725](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=666) - Division - [[C++](UVa/00725.cpp)]
+- [UVa 00441](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=382) - Lotto - [[C++](UVa/00441.cpp)]
+- [UVa 11565](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2612) - Simple Equations - [[C++](UVa/11565.cpp)]
+- [UVa 11742](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2842) - Social Constraints - [[C++](UVa/11742.cpp)]
+- [UVa 12455](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3886) - Bars - [[C++](UVa/12455.cpp)]
+
+##### Recursive Complete Search
+- [UVa 00750](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=691) - 8 Queens Chess Problem - [[C++](UVa/00750.cpp)]
+- [UVa 11195](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2136) - Another n-Queen Problem - [[C++](UVa/11195.cpp)] - [TLE]
 
 
 ### Chapter 4 - _Graph_
