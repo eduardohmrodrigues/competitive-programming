@@ -155,6 +155,9 @@ This is part of my study to improve my skills of competitive programming problem
 - [UVa 00750](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=691) - 8 Queens Chess Problem - [[C++](UVa/00750.cpp)]
 - [UVa 11195](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2136) - Another n-Queen Problem - [[C++](UVa/11195.cpp)] - [TLE]
 
+##### Others
+- [UVa 10360](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1301) - Rat Attack - [[C++](UVa/10360.cpp)]
+
 
 ### Chapter 4 - _Graph_
 
