@@ -158,6 +158,10 @@ This is part of my study to improve my skills of competitive programming problem
 ##### Others
 - [UVa 10360](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1301) - Rat Attack - [[C++](UVa/10360.cpp)]
 
+##### Iterative (One Loop, Linear Scan)
+- [UVa 00927](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=868) - Integer Sequences from Addition of Terms - [[C++](UVa/00927.cpp)]
+- [UVa 01237](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3678) - Expert Enough? - [[C++](UVa/01237.cpp)]
+
 
 ### Chapter 4 - _Graph_
 
