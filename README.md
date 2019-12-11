@@ -163,7 +163,7 @@ This is part of my study to improve my skills of competitive programming problem
 - [UVa 01237](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3678) - Expert Enough? - [[C++](UVa/01237.cpp)]
 
 ##### Iterative (Two Nested Loops)
-- [UVa 01260](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=9) - Sales - [[C++](UVa/01260.cpp)]
+- __[UVa 01260](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=9) - Sales *__ - [[C++](UVa/01260.cpp)]
 
 
 ### Chapter 4 - _Graph_
