@@ -164,6 +164,7 @@ This is part of my study to improve my skills of competitive programming problem
 
 ##### Iterative (Two Nested Loops)
 - __[UVa 01260](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=9) - Sales *__ - [[C++](UVa/01260.cpp)]
+- __[UVa 10487](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1428) - Closest Sums *__ - [[C++](UVa/10487.cpp)]
 
 
 ### Chapter 4 - _Graph_
