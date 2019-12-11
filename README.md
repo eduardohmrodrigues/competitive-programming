@@ -146,7 +146,6 @@ This is part of my study to improve my skills of competitive programming problem
 
 ##### Iterative Complete Search
 - [UVa 00725](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=666) - Division - [[C++](UVa/00725.cpp)]
-- [UVa 00441](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=382) - Lotto - [[C++](UVa/00441.cpp)]
 - [UVa 11565](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2612) - Simple Equations - [[C++](UVa/11565.cpp)]
 - [UVa 11742](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2842) - Social Constraints - [[C++](UVa/11742.cpp)]
 - [UVa 12455](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3886) - Bars - [[C++](UVa/12455.cpp)]
@@ -166,6 +165,10 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 01260](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=9) - Sales *__ - [[C++](UVa/01260.cpp)]
 - __[UVa 10487](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1428) - Closest Sums *__ - [[C++](UVa/10487.cpp)]
 - __[UVa 11242](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2183) - Tour de France *__ - [[C++](UVa/11242.cpp)]
+
+##### Iterative (Three or More Nested Loops, Easier)
+- __[UVa 00441](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=382) - Lotto *__ - [[C++](UVa/00441.cpp)]
+
 
 ### Chapter 4 - _Graph_
 
