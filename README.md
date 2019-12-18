@@ -168,6 +168,7 @@ This is part of my study to improve my skills of competitive programming problem
 
 ##### Iterative (Three or More Nested Loops, Easier)
 - __[UVa 00441](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=382) - Lotto *__ - [[C++](UVa/00441.cpp)]
+- __[UVa 00735](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=676) - Dart-a-Mania *__ - [[C++](UVa/00735.cpp)]
 
 
 ### Chapter 4 - _Graph_
