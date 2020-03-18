@@ -18,6 +18,10 @@
 
 [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) - [C++](./two-strings.cpp)
 
+[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) - [C++](./bubble-sort.cpp)
+
+[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) - [C++](./mark-and-toys.cpp)
+
 ----
 ## Medium
 [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) - [C++](./new-year-chaos.cpp)
