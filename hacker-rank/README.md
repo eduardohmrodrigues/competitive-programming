@@ -34,5 +34,7 @@
 
 [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) - [C++](./sorting-comparator.cpp)
 
+[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) - [C++](./fraudulent-activity-notifications.cpp) - Timeout
+
 ----
 ## Hard
