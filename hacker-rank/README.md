@@ -32,5 +32,7 @@
 
 [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) - [C++](./frequency-queries.cpp)
 
+[Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) - [C++](./sorting-comparator.cpp)
+
 ----
 ## Hard
