@@ -32,9 +32,14 @@
 
 [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) - [C++](./frequency-queries.cpp)
 
+[Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) - [C++](./count-triplets.cpp) - Timeout
+
 [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) - [C++](./sorting-comparator.cpp)
 
 [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) - [C++](./fraudulent-activity-notifications.cpp) - Timeout
 
 ----
 ## Hard
+
+[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) - [C++](./array-manipulation.cpp) - Timeout
+
