@@ -22,6 +22,10 @@
 
 [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) - [C++](./mark-and-toys.cpp)
 
+[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) - [C++](./left-rotation.cpp)
+
+[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/) - [C++](./print-the-elements-of-a-linked-list.cpp)
+
 ----
 ## Medium
 [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) - [C++](./new-year-chaos.cpp)
@@ -38,8 +42,9 @@
 
 [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) - [C++](./fraudulent-activity-notifications.cpp) - Timeout
 
+[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/) - [C++](./sparse-arrays.cpp)
+
 ----
 ## Hard
 
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) - [C++](./array-manipulation.cpp) - Timeout
-
