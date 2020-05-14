@@ -2,6 +2,12 @@
 
 ----
 ## Easy
+[Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - [C++](arrays-ds.cpp)
+
+[Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) - [C++](arrays-left-rotation.cpp)
+
+[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [C++](dynamic-array.cpp)
+
 [Socker Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) - [C++](./socker-merchant.cpp)
 
 [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) - [C++](./counting-valleys.cpp)
@@ -28,6 +34,8 @@
 
 ----
 ## Medium
+[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](balanced-brackets.cpp)
+
 [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) - [C++](./new-year-chaos.cpp)
 
 [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) - [C++](./minimum-swaps-2.cpp)
