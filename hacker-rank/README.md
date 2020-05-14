@@ -8,6 +8,8 @@
 
 [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [C++](dynamic-array.cpp)
 
+[Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) - [C++](height-binary-tree.cpp)
+
 [Socker Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) - [C++](./socker-merchant.cpp)
 
 [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) - [C++](./counting-valleys.cpp)
