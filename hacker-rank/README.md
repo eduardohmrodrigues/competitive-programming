@@ -2,13 +2,13 @@
 
 ----
 ## Easy
-[Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - [C++](arrays-ds.cpp)
+[Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - [C++](./arrays-ds.cpp)
 
-[Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) - [C++](arrays-left-rotation.cpp)
+[Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) - [C++](./arrays-left-rotation.cpp)
 
-[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [C++](dynamic-array.cpp)
+[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [C++](./dynamic-array.cpp)
 
-[Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) - [C++](height-binary-tree.cpp)
+[Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) - [C++](./height-binary-tree.cpp)
 
 [Socker Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) - [C++](./socker-merchant.cpp)
 
@@ -34,9 +34,13 @@
 
 [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/) - [C++](./print-the-elements-of-a-linked-list.cpp)
 
+[Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) - [C++](./insert-a-node-at-the-tail-of-a-linked-list.cpp)
+
+[Insert a Node at the Head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) - [C++](./insert-a-node-at-the-head-of-a-linked-list.cpp)
+
 ----
 ## Medium
-[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](balanced-brackets.cpp)
+[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
 
 [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) - [C++](./new-year-chaos.cpp)
 
@@ -53,6 +57,8 @@
 [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) - [C++](./fraudulent-activity-notifications.cpp) - Timeout
 
 [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/) - [C++](./sparse-arrays.cpp)
+
+[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) - [C++](cycle-detection.cpp)
 
 ----
 ## Hard
