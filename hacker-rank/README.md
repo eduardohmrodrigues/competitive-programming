@@ -38,6 +38,8 @@
 
 [Insert a Node at the Head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) - [C++](./insert-a-node-at-the-head-of-a-linked-list.cpp)
 
+[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) - [C++](./delete-a-node.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
