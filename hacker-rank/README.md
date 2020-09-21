@@ -42,7 +42,7 @@
 
 [Delete a Node From a Linked List](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) - [C++](./delete-a-node.cpp)
 
-[Insert a Node at a specific position in a Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) - [C++](./insert-a-node-into-a-sorted-doubly-linked-list.cpp)
+[Insert a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) - [C++](./insert-a-node-into-a-sorted-doubly-linked-list.cpp)
 
 ----
 ## Medium
