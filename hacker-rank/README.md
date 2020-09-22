@@ -44,6 +44,8 @@
 
 [Insert a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) - [C++](./insert-a-node-into-a-sorted-doubly-linked-list.cpp)
 
+[Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) - [C++](./reverse-a-doubly-linked-list.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
