@@ -70,7 +70,11 @@
 
 [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/) - [C++](./sparse-arrays.cpp)
 
-[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) - [C++](cycle-detection.cpp)
+[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) - [C++](./cycle-detection.cpp)
+
+[Swap Nodes Algo](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) - [C++](./swap-nodes-algo.cpp)
+
+[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) - [C++](./tree-huffman-decoding.cpp)
 
 ----
 ## Hard
