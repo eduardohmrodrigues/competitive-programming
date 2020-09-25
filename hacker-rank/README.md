@@ -76,6 +76,8 @@
 
 [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) - [C++](./tree-huffman-decoding.cpp)
 
+[Is This a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree/problem) - [C++](./is-binary-search-tree.cpp)
+
 ----
 ## Hard
 
