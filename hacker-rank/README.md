@@ -48,6 +48,8 @@
 
 [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) - [C++](./print-the-elements-of-a-linked-list-in-reverse.cpp)
 
+[Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) - [C++](./reverse-a-linked-list.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
