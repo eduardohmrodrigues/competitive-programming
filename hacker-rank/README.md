@@ -50,6 +50,8 @@
 
 [Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) - [C++](./reverse-a-linked-list.cpp)
 
+[Compare Two Linked Lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) - [C++](./compare-two-linked-lists.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
