@@ -52,6 +52,8 @@
 
 [Compare Two Linked Lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) - [C++](./compare-two-linked-lists.cpp)
 
+[Merge Two Sorted Linked Lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) - [C++](./merge-two-sorted-linked-lists.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
