@@ -60,6 +60,8 @@
 
 [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) - [C++](./find-merge-node.cpp)
 
+[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) - [C++](./tree-preorder-traversal.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
