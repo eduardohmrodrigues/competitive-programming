@@ -64,6 +64,8 @@
 
 [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) - [C++](./tree-postorder-traversal.cpp)
 
+[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) - [C++](./tree-inorder-traversal.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
