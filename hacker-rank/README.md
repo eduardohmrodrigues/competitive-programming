@@ -66,6 +66,8 @@
 
 [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) - [C++](./tree-inorder-traversal.cpp)
 
+[Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) - [C++](./binary-search-tree-insertion.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
