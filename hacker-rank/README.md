@@ -68,6 +68,8 @@
 
 [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) - [C++](./binary-search-tree-insertion.cpp)
 
+[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) - [C++](./equal-stacks.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
