@@ -6,10 +6,10 @@ This is part of my study to improve my skills of competitive programming problem
 ### Chapter 1 - _Introduction_
 
 ##### Super Easy Problems
-- [UVa 00272](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=208) - TEX Quotes - [[C++](UVa/cpp/00272.cpp)][[Java](UVa/java/00272_TEXQuotes.java)]
-- [UVa 01124](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3565) - Celebrity Jeopardy - [[C++](UVa/cpp/01124.cpp)]
-- [UVa 10550](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1491) - Combination Lock - [[C++](UVa/cpp/10550.cpp)]
-- [UVa 11044](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1985) - Searching for Nessy - [[C++](UVa/cpp/11044.cpp)]
+- [UVa 00272](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=208) - TEX Quotes - [[C++](UVa/cpp/00272.cpp)][[Java](UVa/java/UVa_00272_TEXQuotes.java)]
+- [UVa 01124](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3565) - Celebrity Jeopardy - [[C++](UVa/cpp/01124.cpp)][[Java](UVa/java/UVa_01124_CelebrityJeopardy.java)]
+- [UVa 10550](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1491) - Combination Lock - [[C++](UVa/cpp/10550.cpp)][[Java](UVa/java/UVa_10550_CombinationLock.java)]
+- [UVa 11044](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1985) - Searching for Nessy - [[C++](UVa/cpp/11044.cpp)][[Java](UVa/java/UVa_11044_SearchingForNessy.java)]
 - __[UVa 11172](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2113) - Relational Operators *__ - [[C++](UVa/cpp/11172.cpp)]
 - [UVa 11364](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2349) - Parking - [[C++](UVa/cpp/11364.cpp)]
 - __[UVa 11498](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2493) - Division of Nlogonia *__ - [[C++](UVa/cpp/11498.cpp)]
