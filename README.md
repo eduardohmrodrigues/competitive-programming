@@ -15,8 +15,8 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 11498](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2493) - Division of Nlogonia *__ - [[C++](UVa/cpp/11498.cpp)][[Java](UVa/java/UVa_11498_DivisionOfNlogonia.java)]
 - [UVa 11547](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2542) - Automatic Answer - [[C++](UVa/cpp/11547.cpp)][[Java](UVa/java/UVa_11547_AutomaticAnswer.java)]
 - __[UVa 11727](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2827) - Cost Cutting*__ - [[C++](UVa/cpp/11727.cpp)][[Java](UVa/java/UVa_11727_CostCutting.java)]
-- [UVa 12250](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3402) - Language Detection - [[C++](UVa/cpp/12250.cpp)]
-- [UVa 12279](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3431) - Emoogle Balance - [[C++](UVa/cpp/12279.cpp)]
+- [UVa 12250](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3402) - Language Detection - [[C++](UVa/cpp/12250.cpp)][[Java](UVa/java/UVa_12250_LanguageDetection.java)]
+- [UVa 12279](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3431) - Emoogle Balance - [[C++](UVa/cpp/12279.cpp)][[Java](UVa/java/UVa_12279_EmoogleBalance.java)]
 
 ##### Easy Problems
 - [UVa 00621](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=562) - Secret Research - [[C++](UVa/cpp/00621.cpp)]
