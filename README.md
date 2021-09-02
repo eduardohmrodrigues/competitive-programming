@@ -19,7 +19,7 @@ This is part of my study to improve my skills of competitive programming problem
 - [UVa 12279](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3431) - Emoogle Balance - [[C++](UVa/cpp/12279.cpp)][[Java](UVa/java/UVa_12279_EmoogleBalance.java)]
 
 ##### Easy Problems
-- [UVa 00621](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=562) - Secret Research - [[C++](UVa/cpp/00621.cpp)]
+- [UVa 00621](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=562) - Secret Research - [[C++](UVa/cpp/00621.cpp)][[Java](UVa/java/UVa_00621_SecretResearch.java)]
 - __[UVa 10114](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1055) - Loansome Car Buyer *__ - [[C++](UVa/cpp/10114.cpp)]
 - [UVa 10300](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1241) - Ecological Premium - [[C++](UVa/cpp/10300.cpp)]
 - [UVa 10963](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1904) - The Swallowing Ground - [[C++](UVa/cpp/10963.cpp)]
