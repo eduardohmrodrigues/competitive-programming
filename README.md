@@ -25,7 +25,7 @@ This is part of my study to improve my skills of competitive programming problem
 - [UVa 10963](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1904) - The Swallowing Ground - [[C++](UVa/cpp/10963.cpp)][[Java](UVa/java/UVa_10963_TheSwallowingGround.java)]
 - [UVa 11332](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2307) - Summing Digits - [[C++](UVa/cpp/11332.cpp)][[Java](UVa/java/UVa_11332_SummingDigits.java)]
 - __[UVa 11559](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2595) - Event Planning *__ - [[C++](UVa/cpp/11559.cpp)][[Java](UVa/java/UVa_11559_EventPlanning.java)]
-- __[UVa 11799](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899) - Horror Dash *__ - [[C++](UVa/cpp/11799.cpp)]
+- __[UVa 11799](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899) - Horror Dash *__ - [[C++](UVa/cpp/11799.cpp)][[Java](UVa/java/UVa_11799_HorrorDash.java)]
 
 ##### Medium Problems
 - [UVa 00119](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=55) - Greedy Gift Givers - [[C++](UVa/cpp/00119.cpp)]
