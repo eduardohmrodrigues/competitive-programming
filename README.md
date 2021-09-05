@@ -30,7 +30,7 @@ This is part of my study to improve my skills of competitive programming problem
 ##### Medium Problems
 - [UVa 00119](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=55) - Greedy Gift Givers - [[C++](UVa/cpp/00119.cpp)][[Java](UVa/java/UVa_00119_GreedyGiftGivers.java)]
 - __[UVa 00573](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=514) - The Snail *__ - [[C++](UVa/cpp/00573.cpp)][[Java](UVa/java/UVa_00573_TheSnail.java)]
-- __[UVa 10141](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1082) - Request for Proposal *__ - [[C++](UVa/cpp/10141.cpp)]
+- __[UVa 10141](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1082) - Request for Proposal *__ - [[C++](UVa/cpp/10141.cpp)][[Java](UVa/java/UVa_10141_RequestForProposal.java)]
 - [UVa 10424](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1365) - Love Calculator - [[C++](UVa/cpp/10424.cpp)][[Java](UVa/java/UVa_10424_LoveCalculator.java)]
 - [UVa 10919](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1860) - Prerequisites? - [[C++](UVa/cpp/10919.cpp)][[Java](UVa/java/UVa_10919_Prerequisites.java)]
 - __[UVa 11507](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2502) - Bender B. Roríguez Problem *__ - [[C++](UVa/cpp/11507.cpp)]
