@@ -36,7 +36,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 11507](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2502) - Bender B. Roríguez Problem *__ - [[C++](UVa/cpp/11507.cpp)][[Java](UVa/java/UVa_11507_BenderBRodriguezProblem.java)]
 
 ##### Game (Card)
-- __[UVa 00462](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=403) - Bridge Hand Evaluator *__ - [[C++](UVa/cpp/00462.cpp)]
+- __[UVa 00462](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=403) - Bridge Hand Evaluator *__ - [[C++](UVa/cpp/00462.cpp)][[Java](UVa/java/UVa_00462_BridgeHandEvaluator.java)]
 - __[UVa 10646](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1587) - What is the Card? *__ - [[C++](UVa/cpp/10646.cpp)]
 - __[UVa 12247](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3399) - Jollo *__ - [[C++](UVa/cpp/12247.cpp)]
 
