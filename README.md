@@ -33,7 +33,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 10141](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1082) - Request for Proposal *__ - [[C++](UVa/cpp/10141.cpp)][[Java](UVa/java/UVa_10141_RequestForProposal.java)]
 - [UVa 10424](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1365) - Love Calculator - [[C++](UVa/cpp/10424.cpp)][[Java](UVa/java/UVa_10424_LoveCalculator.java)]
 - [UVa 10919](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1860) - Prerequisites? - [[C++](UVa/cpp/10919.cpp)][[Java](UVa/java/UVa_10919_Prerequisites.java)]
-- __[UVa 11507](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2502) - Bender B. Roríguez Problem *__ - [[C++](UVa/cpp/11507.cpp)]
+- __[UVa 11507](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2502) - Bender B. Roríguez Problem *__ - [[C++](UVa/cpp/11507.cpp)][[Java](UVa/java/UVa_11507_BenderBRodriguezProblem.java)]
 
 ##### Game (Card)
 - __[UVa 00462](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=403) - Bridge Hand Evaluator *__ - [[C++](UVa/cpp/00462.cpp)]
