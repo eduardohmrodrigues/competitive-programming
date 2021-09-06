@@ -37,7 +37,7 @@ This is part of my study to improve my skills of competitive programming problem
 
 ##### Game (Card)
 - __[UVa 00462](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=403) - Bridge Hand Evaluator *__ - [[C++](UVa/cpp/00462.cpp)][[Java](UVa/java/UVa_00462_BridgeHandEvaluator.java)]
-- __[UVa 10646](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1587) - What is the Card? *__ - [[C++](UVa/cpp/10646.cpp)]
+- __[UVa 10646](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1587) - What is the Card? *__ - [[C++](UVa/cpp/10646.cpp)][[Java](UVa/java/UVa_10646_WhatIsTheCard.java)]
 - __[UVa 12247](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3399) - Jollo *__ - [[C++](UVa/cpp/12247.cpp)]
 
 ##### Game (Chess)
