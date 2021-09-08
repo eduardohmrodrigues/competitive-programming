@@ -41,7 +41,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 12247](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3399) - Jollo *__ - [[C++](UVa/cpp/12247.cpp)][[Java](UVa/java/UVa_12247_Jollo.java)]
 
 ##### Game (Chess)
-- __[UVa 00278](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=214) - Chess *__ - [[C++](UVa/cpp/00278.cpp)]
+- __[UVa 00278](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=214) - Chess *__ - [[C++](UVa/cpp/00278.cpp)][[Java](UVa/java/UVa_00278_Chess.java)]
 - __[UVa 00696](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=637) - How Many Knights *__ - [[C++](UVa/cpp/00696.cpp)]
 - __[UVa 10284](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1225) - Chessboard in FEN *__ - [[C++](UVa/cpp/10284.cpp)]
 
