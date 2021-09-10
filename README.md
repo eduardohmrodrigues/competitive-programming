@@ -47,7 +47,7 @@ This is part of my study to improve my skills of competitive programming problem
 
 ##### Game (Others), Easier
 - __[UVa 00489](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=94&page=show_problem&problem=430) - Hangman Judge *__ - [[C++](UVa/cpp/00489.cpp)][[Java](UVa/java/UVa_00489_HangmanJudge.java)]
-- __[UVa 10189](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130) - Minesweeper *__ - [[C++](UVa/cpp/10189.cpp)]
+- __[UVa 10189](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130) - Minesweeper *__ - [[C++](UVa/cpp/10189.cpp)][[Java](UVa/java/UVa_10189_Minesweeper.java)]
 - __[UVa 11459](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2454) - Snaker and Ladders *__ - [[C++](UVa/cpp/11459.cpp)]
 
 ##### Game (Others), Harder
