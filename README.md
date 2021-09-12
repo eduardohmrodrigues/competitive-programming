@@ -51,7 +51,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 11459](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2454) - Snaker and Ladders *__ - [[C++](UVa/cpp/11459.cpp)][[Java](UVa/java/UVa_11459_SnakerAndLadders.java)]
 
 ##### Game (Others), Harder
-- __[UVa 00584](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=525) - Bowling *__ - [[C++](UVa/cpp/00584.cpp)][[Java][UVa/java/UVa_00584_Bowling.java]]
+- __[UVa 00584](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=525) - Bowling *__ - [[C++](UVa/cpp/00584.cpp)][[Java](UVa/java/UVa_00584_Bowling.java)]
 - __[UVa 10443](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1384) - Rock, Scissors, Paper *__ - [[C++](UVa/cpp/10443.cpp)][[Java](UVa/java/UVa_10443_RockScissorsPaper.java)]
 - __[UVa 10813](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1754) - Traditional BINGO *__ - [[C++](UVa/cpp/10813.cpp)]
 
