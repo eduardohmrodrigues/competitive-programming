@@ -61,7 +61,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 11221](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2162) - Magic Square Palindrome *__ - [[C++](UVa/cpp/11221.cpp)][[Java](UVa/java/UVa_11221_MagicSquarePalindrome.java)]
 
 ##### Anagram
-- __[UVa 00156](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=92) - Ananagram *__ - [[C++](UVa/cpp/00156.cpp)]
+- __[UVa 00156](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=92) - Ananagram *__ - [[C++](UVa/cpp/00156.cpp)][[Java](UVa/java/UVa_00156_Ananagram.java)]
 - __[UVa 00195](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=131) - Anagram *__ - [[C++](UVa/cpp/00195.cpp)]
 - __[UVa 00454](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=395) - Anagrams *__ - [[C++](UVa/cpp/00454.cpp)]
 
