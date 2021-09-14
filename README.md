@@ -63,7 +63,7 @@ This is part of my study to improve my skills of competitive programming problem
 ##### Anagram
 - __[UVa 00156](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=92) - Ananagram *__ - [[C++](UVa/cpp/00156.cpp)][[Java](UVa/java/UVa_00156_Ananagram.java)]
 - __[UVa 00195](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=131) - Anagram *__ - [[C++](UVa/cpp/00195.cpp)]
-- __[UVa 00454](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=395) - Anagrams *__ - [[C++](UVa/cpp/00454.cpp)]
+- __[UVa 00454](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=395) - Anagrams *__ - [[C++](UVa/cpp/00454.cpp)][[Java](UVa/java/UVa_00454_Anagrams.java)]
 
 ##### Interesting Real Life Problems, Easier
 - __[UVa 00161](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=97) - Traffic Lights *__ - [[C++](UVa/cpp/00161.cpp)]
