@@ -66,7 +66,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 00454](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=395) - Anagrams *__ - [[C++](UVa/cpp/00454.cpp)][[Java](UVa/java/UVa_00454_Anagrams.java)]
 
 ##### Interesting Real Life Problems, Easier
-- __[UVa 00161](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=97) - Traffic Lights *__ - [[C++](UVa/cpp/00161.cpp)]
+- __[UVa 00161](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=97) - Traffic Lights *__ - [[C++](UVa/cpp/00161.cpp)][[Java](UVa/java/UVa_00161_TrafficLights.java)]
 - __[UVa 00637](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=578) - Booklet Printing *__ - [[C++](UVa/cpp/00637.cpp)]
 - __[UVa 10812](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1753) - Beat the Spread *__ - [[C++](UVa/cpp/10812.cpp)]
 
