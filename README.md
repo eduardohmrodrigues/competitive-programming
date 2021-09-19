@@ -72,7 +72,7 @@ This is part of my study to improve my skills of competitive programming problem
 
 ##### Interesting Real Life Problems, Harder
 - __[UVa 00403](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=344) - Postscript *__ - [[C++](UVa/cpp/00403.cpp)]
-- __[UVa 00608](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=549) - Counterfeit Dollar *__ - [[C++](UVa/cpp/00608.cpp)]
+- __[UVa 00608](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=549) - Counterfeit Dollar *__ - [[C++](UVa/cpp/00608.cpp)][[Java](UVa/java/UVa_00608_CounterfeitDollar.java)]
 - __[UVa 01061](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3502) - Consanguine Calculations *__ - [[C++](UVa/cpp/01061.cpp)]
 
 ##### Time
