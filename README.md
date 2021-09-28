@@ -76,7 +76,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 01061](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3502) - Consanguine Calculations *__ - [[C++](UVa/cpp/01061.cpp)][[Java](UVa/java/UVa_01061_ConsanguineCalculations.java)]
 
 ##### Time
-- __[UVa 00579](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=520) - Clock Hands *__ - [[C++](UVa/cpp/00579.cpp)]
+- __[UVa 00579](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=520) - Clock Hands *__ - [[C++](UVa/cpp/00579.cpp)][[Java](UVa/java/UVa_00579_ClockHands.java)]
 - __[UVa 00893](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=834) - Y3K *__ - [[C++](UVa/cpp/00893.cpp)]
 - __[UVa 11947](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3098) - Cancer or Scorpio *__ - [[C++](UVa/cpp/11947.cpp)]
 
