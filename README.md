@@ -77,8 +77,8 @@ This is part of my study to improve my skills of competitive programming problem
 
 ##### Time
 - __[UVa 00579](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=520) - Clock Hands *__ - [[C++](UVa/cpp/00579.cpp)][[Java](UVa/java/UVa_00579_ClockHands.java)]
-- __[UVa 00893](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=834) - Y3K *__ - [[C++](UVa/cpp/00893.cpp)]
-- __[UVa 11947](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3098) - Cancer or Scorpio *__ - [[C++](UVa/cpp/11947.cpp)]
+- __[UVa 00893](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=834) - Y3K *__ - [[C++](UVa/cpp/00893.cpp)][[Java](UVa/java/UVa_11340_Y3K.java)]
+- __[UVa 11947](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3098) - Cancer or Scorpio *__ - [[C++](UVa/cpp/11947.cpp)][[Java](UVa/java/UVa_11947_CancerOrScorpio.java)]
 
 
 ### Chapter 2 - _Data Structures and Libraries_
