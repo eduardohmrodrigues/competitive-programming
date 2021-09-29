@@ -84,7 +84,7 @@ This is part of my study to improve my skills of competitive programming problem
 ### Chapter 2 - _Data Structures and Libraries_
 
 ##### 1D Array Manipulation
-- __[UVa 10038](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979) - Jolly Jumpers *__ - [[C++](UVa/cpp/10038.cpp)]
+- __[UVa 10038](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979) - Jolly Jumpers *__ - [[C++](UVa/cpp/10038.cpp)][[Java](UVa/java/UVa_10038_JollyJumpers.java)]
 - __[UVa 11340](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2315) - Newspaper *__ - [[C++](UVa/cpp/11340.cpp)]
 - __[UVa 12356](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3778) - Army Buddies *__ - [[C++](UVa/cpp/12356.cpp)]
 
