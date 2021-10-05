@@ -2,8 +2,8 @@
 // Created by Rodrigues, Eduardo on 05/10/21.
 //
 
-#ifndef LEARNING_QUEUE_H
-#define LEARNING_QUEUE_H
+#ifndef QUEUE_H
+#define QUEUE_H
 
 #include "node.h"
 
@@ -24,4 +24,4 @@ private:
     node* tail;
 };
 
-#endif //LEARNING_QUEUE_H
+#endif //QUEUE_H
