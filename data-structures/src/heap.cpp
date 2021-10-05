@@ -4,31 +4,31 @@
 
 #include <cstdlib>
 #include <cstdio>
-#include "../headers/Heap.h"
+#include "../headers/heap.h"
 
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 //        Constructors
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Heap::Heap(){
+heap::heap(){
     size = 0;
     capacity = 2;
 //    items = (int*)malloc(sizeof(int)*capacity);
     items = new int [capacity];
 }
 
-Heap::~Heap(){}
+heap::~heap(){}
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 //       Private Methods
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-int Heap::getLeftChildIndex(int parentIndex) { return parentIndex * 2 + 1; }
+int heap::getLeftChildIndex(int parentIndex) { return parentIndex * 2 + 1; }
 
-int Heap::getRightChildIndex(int parentIndex) { return parentIndex * 2 + 2; }
+int heap::getRightChildIndex(int parentIndex) { return parentIndex * 2 + 2; }
 
-int Heap::getSmallerChildIndex(int parentIndex) {
+int heap::getSmallerChildIndex(int parentIndex) {
     if(!hasLeftChild(parentIndex)) {
         return -1;
     }
@@ -41,27 +41,27 @@ int Heap::getSmallerChildIndex(int parentIndex) {
     return smallerChildIndex;
 }
 
-int Heap::getParentIndex(int childrenIndex) { return (childrenIndex-1)/2; }
+int heap::getParentIndex(int childrenIndex) { return (childrenIndex-1)/2; }
 
-bool Heap::hasLeftChild(int index) { return getLeftChildIndex(index) < size; }
+bool heap::hasLeftChild(int index) { return getLeftChildIndex(index) < size; }
 
-bool Heap::hasRightChild(int index) { return getRightChildIndex(index) < size; }
+bool heap::hasRightChild(int index) { return getRightChildIndex(index) < size; }
 
-bool Heap::hasParent(int index) { return getParentIndex(index) >= 0; }
+bool heap::hasParent(int index) { return getParentIndex(index) >= 0; }
 
-int Heap::leftChild(int index) { return items[getLeftChildIndex(index)]; }
+int heap::leftChild(int index) { return items[getLeftChildIndex(index)]; }
 
-int Heap::rightChild(int index) { return items[getRightChildIndex(index)]; }
+int heap::rightChild(int index) { return items[getRightChildIndex(index)]; }
 
-int Heap::parent(int index) { return items[getParentIndex(index)]; }
+int heap::parent(int index) { return items[getParentIndex(index)]; }
 
-void Heap::swap(int indexOne, int indexTwo) {
+void heap::swap(int indexOne, int indexTwo) {
     int temp = items[indexOne];
     items[indexOne] = items[indexTwo];
     items[indexTwo] = temp;
 }
 
-void Heap::ensureExtraCapacity() {
+void heap::ensureExtraCapacity() {
     if(size == capacity) {
         capacity *= 2;
         items = (int*)realloc(items, capacity*sizeof(int));
@@ -73,7 +73,7 @@ void Heap::ensureExtraCapacity() {
     }
 }
 
-void Heap::heapifyUp() {
+void heap::heapifyUp() {
     int index = size-1, parentIndex;
 
     while(hasParent(index) && items[index] < parent(index)){
@@ -83,7 +83,7 @@ void Heap::heapifyUp() {
     }
 }
 
-void Heap::heapifyDown() {
+void heap::heapifyDown() {
     int index = 0, smallerChildIndex;
 
     while (hasLeftChild(index)) {
@@ -101,7 +101,7 @@ void Heap::heapifyDown() {
 //       Public Methods
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-int Heap::peek() {
+int heap::peek() {
     if (size == 0) {
       printf("No data available to peek\n");
       return -1;
@@ -109,7 +109,7 @@ int Heap::peek() {
     return items[0];
 }
 
-int Heap::poll() {
+int heap::poll() {
     if (size == 0) {
         printf("No data available to poll\n");
         return -1;
@@ -122,14 +122,14 @@ int Heap::poll() {
     return item;
 }
 
-void Heap::add(int item) {
+void heap::add(int item) {
     ensureExtraCapacity();
     items[size] = item;
     ++size;
     heapifyUp();
 }
 
-void Heap::print() {
+void heap::print() {
     for(int i=0; i<size; ++i){
         printf("%d", items[i]);
         if(i < size-1) printf(", ");

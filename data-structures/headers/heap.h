@@ -5,12 +5,12 @@
 #ifndef HEAP_H
 #define HEAP_H
 
-class Heap {
+class heap {
 public:
     int* items;
 
-    Heap();
-    ~Heap();
+    heap();
+    ~heap();
 
     int peek();
     int poll();
