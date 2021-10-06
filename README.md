@@ -127,7 +127,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 11849](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949) - CD *__ - [[C++](UVa/cpp/11849.cpp)]
 
 ##### C++ STL priority_queue
-- __[UVa 01203](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3644) - Argus *__ - [[C++](UVa/cpp/01203.cpp)][[C++ With Priority Queue](UVa/cpp/01203_Argus_PiorityQueue.cpp)]
+- __[UVa 01203](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3644) - Argus *__ - [[C++](UVa/cpp/01203.cpp)][[C++ With Classes](UVa/cpp/01203_Argus_UsingClasses.cpp)]
 - __[UVa 10954](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1895) - Add All *__ - [[C++](UVa/cpp/10954.cpp)]
 - __[UVa 11995](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3146) - I Can Guess the Data Structure! *__ - [[C++](UVa/cpp/11995.cpp)]
 
