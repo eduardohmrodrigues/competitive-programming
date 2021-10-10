@@ -89,7 +89,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 12356](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3778) - Army Buddies *__ - [[C++](UVa/cpp/12356.cpp)][[Java](UVa/java/UVa_12356_ArmyBuddies.java)]
 
 ##### 2D Array Manipulation
-- __[UVa 10855](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1796) - Rotated squares *__ - [[C++](UVa/cpp/10855.cpp)]
+- __[UVa 10855](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1796) - Rotated squares *__ - [[C++](UVa/cpp/10855.cpp)][[Java](UVa/java/UVa_10855_RotateSquares.java)]
 - __[UVa 10920](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1861) - Spiral Tap *__ - [[C++](UVa/cpp/10920.cpp)]
 - __[UVa 11581](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2628) - Grid Successors *__ - [[C++](UVa/cpp/11581.cpp)]
 
