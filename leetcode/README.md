@@ -4,6 +4,10 @@
 ## Easy
 [Two Sum](https://leetcode.com/problems/two-sum) - [C++](./two-sum.cpp)
 
+[292 - Nim Game](https://leetcode.com/problems/nim-game/) - [Kotlin](./easy/292-nim-game.kt)
+
+[461 - Hamming Distance](https://leetcode.com/problems/hamming-distance/) - [Kotlin](./easy/461-hamming-distance.kt)
+
 [977 - Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) - [Kotlin](./easy/977-squares-of-sorted-array.kt)
 
 ----
