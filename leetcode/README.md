@@ -6,7 +6,11 @@
 
 [292 - Nim Game](https://leetcode.com/problems/nim-game/) - [Kotlin](./easy/292-nim-game.kt)
 
+[404 - Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) - [Kotlin](./easy/404-sum-of-left-leaves.kt)
+
 [461 - Hamming Distance](https://leetcode.com/problems/hamming-distance/) - [Kotlin](./easy/461-hamming-distance.kt)
+
+[575 - Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) - [Kotlin](./easy/575-distribute-candies.kt)
 
 [977 - Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) - [Kotlin](./easy/977-squares-of-sorted-array.kt)
 
