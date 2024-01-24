@@ -68,6 +68,8 @@
 
 [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) - [C++](./binary-search-tree-insertion.cpp)
 
+[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?isFullScreen=true) - [Java](./binary-search-tree-lowest-common-ancestor.java)
+
 [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) - [C++](./equal-stacks.cpp)
 
 ----
