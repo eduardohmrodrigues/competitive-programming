@@ -105,4 +105,4 @@
 ----
 ## Hard
 
-[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) - [C++ (multiple loops)](./array-manipulation.cpp) - [C++ (Tree)](array-manipulation-tree.cpp)- Timeout
+[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) - [Java (Accepted)](./array-manipulation.java) - [C++ (multiple loops - timeout)](./array-manipulation.cpp) - [C++ (Tree - timeout)](array-manipulation-tree.cpp)
