@@ -74,6 +74,8 @@
 
 [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) - [Java](./maximum-element.java)
 
+[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) - [C++](./sherlock-and-array.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
