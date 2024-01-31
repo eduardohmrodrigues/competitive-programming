@@ -76,6 +76,8 @@
 
 [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) - [C++](./sherlock-and-array.cpp)
 
+[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem) - [C++](./jesse-and-cookies.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
