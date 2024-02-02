@@ -78,6 +78,8 @@
 
 [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem) - [C++](./jesse-and-cookies.cpp)
 
+[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem) - [C++](./qheap1.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
