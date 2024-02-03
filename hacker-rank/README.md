@@ -112,3 +112,5 @@
 ## Hard
 
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) - [Java (Accepted)](./array-manipulation.java) - [C++ (multiple loops - timeout)](./array-manipulation.cpp) - [C++ (Tree - timeout)](array-manipulation-tree.cpp)
+
+[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) - [C++](./find-the-running-median.cpp)
