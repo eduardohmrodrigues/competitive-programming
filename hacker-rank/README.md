@@ -108,6 +108,8 @@
 
 [Is This a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree/problem) - [C++](./is-binary-search-tree.cpp)
 
+[Contacts](https://www.hackerrank.com/challenges/contacts/problem) - [C++](./contacts.cpp)
+
 ----
 ## Hard
 
