@@ -82,6 +82,8 @@
 
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem) - [C++](./grading-students.cpp)
 
+[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) - [C++](./apple-and-orange.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
