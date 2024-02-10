@@ -84,6 +84,8 @@
 
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) - [C++](./apple-and-orange.cpp)
 
+[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) - [C++](./kangaroo.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
