@@ -86,6 +86,8 @@
 
 [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) - [C++](./kangaroo.cpp)
 
+[Break Best and Worst Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) - [C++](./break-best-and-worst-records.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
