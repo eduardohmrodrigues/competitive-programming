@@ -88,6 +88,8 @@
 
 [Break Best and Worst Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) - [C++](./break-best-and-worst-records.cpp)
 
+[The Birthday Bar](https://www.hackerrank.com/challenges/the-birthday-bar/problem) - [C++](./the-birthday-bar.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
