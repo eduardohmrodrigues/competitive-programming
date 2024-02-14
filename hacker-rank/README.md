@@ -90,6 +90,8 @@
 
 [The Birthday Bar](https://www.hackerrank.com/challenges/the-birthday-bar/problem) - [C++](./the-birthday-bar.cpp)
 
+[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) - [C++](./divisible-sum-pairs.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
