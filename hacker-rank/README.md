@@ -92,6 +92,8 @@
 
 [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) - [C++](./divisible-sum-pairs.cpp)
 
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) - [C++](./migratory-birds.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
