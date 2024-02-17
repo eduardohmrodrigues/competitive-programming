@@ -94,6 +94,8 @@
 
 [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) - [C++](./migratory-birds.cpp)
 
+[Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem) - [C++](./bon-appetit.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
