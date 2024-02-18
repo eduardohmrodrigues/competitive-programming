@@ -96,6 +96,8 @@
 
 [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem) - [C++](./bon-appetit.cpp)
 
+[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) - [C++](./drawing-book.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
