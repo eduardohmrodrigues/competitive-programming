@@ -98,6 +98,8 @@
 
 [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) - [C++](./drawing-book.cpp)
 
+[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) - [C++](./electronics-shop.cpp)
+
 ----
 ## Medium
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [C++](./balanced-brackets.cpp)
