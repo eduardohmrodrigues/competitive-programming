@@ -130,6 +130,8 @@
 
 [Contacts](https://www.hackerrank.com/challenges/contacts/problem) - [C++](./contacts.cpp)
 
+[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) - [Kotlin](./queue-using-two-stacks.kt)
+
 ----
 ## Hard
 
