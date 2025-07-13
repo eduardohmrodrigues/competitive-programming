@@ -6,7 +6,7 @@
 
 [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) - [C++](./arrays-left-rotation.cpp)
 
-[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [C++](./dynamic-array.cpp)
+[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [C++](./dynamic-array.cpp)[Kotlin](./dynamic-array.kt)
 
 [Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) - [C++](./height-binary-tree.cpp)
 
