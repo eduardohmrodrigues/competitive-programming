@@ -2,11 +2,11 @@
 
 ----
 ## Easy
-[Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - [C++](./arrays-ds.cpp)[Kotlin](./arrays-ds.kt)
+[Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - [[C++](./arrays-ds.cpp)][[Kotlin](./arrays-ds.kt)]
 
 [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) - [C++](./arrays-left-rotation.cpp)
 
-[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [C++](./dynamic-array.cpp)[Kotlin](./dynamic-array.kt)
+[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [[C++](./dynamic-array.cpp)][[Kotlin](./dynamic-array.kt)]
 
 [Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) - [C++](./height-binary-tree.cpp)
 
@@ -18,7 +18,7 @@
 
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) - [C++](./repeated-string.cpp)
 
-[2D Array](https://www.hackerrank.com/challenges/2d-array/problem) - [C++](./2d-array.cpp)[Java](./2d-array.java)[Kotlin](./2d-array.kt)
+[2D Array](https://www.hackerrank.com/challenges/2d-array/problem) - [[C++](./2d-array.cpp)][[Java](./2d-array.java)][[Kotlin](./2d-array.kt)]
 
 [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) - [C++](./array-left-rotation.cpp)
 
