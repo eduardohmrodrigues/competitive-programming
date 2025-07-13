@@ -118,7 +118,7 @@
 
 [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) - [C++](./fraudulent-activity-notifications.cpp) - Timeout
 
-[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/) - [C++](./sparse-arrays.cpp)
+[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/) - [[C++](./sparse-arrays.cpp)][[Kotlin](./sparse-arrays.kt)]
 
 [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) - [C++](./cycle-detection.cpp)
 
