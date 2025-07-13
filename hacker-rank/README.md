@@ -30,7 +30,7 @@
 
 [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) - [C++](./mark-and-toys.cpp)
 
-[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) - [C++](./left-rotation.cpp)
+[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) - [[C++](./left-rotation.cpp)][[Kotlin](./left-rotation.kt)]
 
 [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/) - [C++](./print-the-elements-of-a-linked-list.cpp)
 
