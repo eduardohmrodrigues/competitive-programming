@@ -56,7 +56,7 @@ This is part of my study to improve my skills of competitive programming problem
 - __[UVa 10813](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1754) - Traditional BINGO *__ - [[C++](UVa/cpp/10813.cpp)][[Java](UVa/java/UVa_10813_TraditionalBingo.java)]
 
 ##### Palindrome
-- __[UVa 00401](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=342) - Palindromes *__ - [[C++](UVa/cpp/00401.cpp)][[Java](UVa/java/UVa_00401_Palindromes.java)]
+- __[UVa 00401](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=342) - Palindromes *__ - [[C++](UVa/cpp/00401.cpp)][[Java](UVa/java/UVa_00401_Palindromes.java)][[Kotlin](UVa/kotlin/UVa_00401_Palindromes.kt)]
 - __[UVa 10945](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1886) - Mother Bear *__ - [[C++](UVa/cpp/10945.cpp)][[Java](UVa/java/UVa_10945_MotherBear.java)]
 - __[UVa 11221](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2162) - Magic Square Palindrome *__ - [[C++](UVa/cpp/11221.cpp)][[Java](UVa/java/UVa_11221_MagicSquarePalindrome.java)]
 
